@@ -7,5 +7,16 @@
 <div id="a"></div>
 <div id="b"></div>
 </body>
-<script type="text/javascript" src="./fabrication.js"></script>
+<script type="text/javascript" src="../js/zoom.js"></script>
+<script type="text/javascript">
+	Zoomer({
+		originlPanel: document.getElementById('a'),
+		targetPanel: document.getElementById('b'),
+		imageHeight: 227,
+		imageWidth: 300,
+		imageUrl: 'https://mdn.mozillademos.org/files/5397/rhino.jpg',
+		zoom: 3
+	});
+	
+</script>
 </html>
