@@ -1,6 +1,6 @@
 # **ImageZoom** Zoom your images:-)
 
-This very simple tool, help you to create zoom-able canvas and images; It only have one api; Fork if you like it; Here it a example to show how use it; Send me the email (alberteinstein007@126.com) if you have problems;
+Jquery No ! FrameWork No! Dependances No! Just pure javascript. This very simple tool, help you to create zoom-able canvas and images; It only have one api; Fork if you like it; Here it a example to show how use it; Send me the email (alberteinstein007@126.com) if you have problems;
 ```html
 <div id="a"><div>
 <div id="b"><div>
