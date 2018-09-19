@@ -14,7 +14,7 @@ This very simple tool, help you to create zoom-able canvas and images; It only h
 	Zoomer({
 		originlPanel: document.getElementById('a'), //origin image box warpper
 		targetPanel: document.getElementById('b'),// zoomed image box warpper
-		imageHeight: 227,//image widht
+		imageHeight: 227,//image height
 		imageWidth: 300,//image width
 		imageUrl: 'https://mdn.mozillademos.org/files/5397/rhino.jpg', //your image source
 		zoom: 3 //size
